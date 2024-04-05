@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Introspectives Workshop@RecSys 2024 # Website name
+title: INTROSPECTIVES Workshop@RecSys 2024 # Website name
 baseURL: 'https://introspectives.github.io/2024' # Website URL
 
 ############################
