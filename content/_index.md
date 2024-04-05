@@ -12,7 +12,7 @@ sections:
       #image:
       #  filename: hero-academic.png
       text: |-
-        Workshop at ACM Recommender Systems 2024
+        Workshop at ACM Recommender Systems 2024 in Bari, Italy
         <!--Custom spacing-->
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
@@ -27,7 +27,7 @@ sections:
     content:
       title: Objectives
       text: |-
-            With the RecSys conference now turning 18 years old, the recommender systems (RS) discipline ventures into "adulthood". This workshop serves as a platform for introspection, examining the evolution of Recommender Systems from its origins in CHI to its current state heavily influenced by and focusing on machine learning. We aim to foster discussions on the past, present, and future of the RecSyS discipline, inviting the community to reflect on key questions such as the maturation of RecSyS, shifts in research focus, and the impact and success of RecSyS in practice. Topics include the changing landscape of RecSyS problems, the evolving role of RecSyS in addressing choice overload to the current motivations driving RecSyS adoption. The workshop encourages open dialogue and critical reflection, bringing forth introspective questions to collaboratively explore the past, present, and future of RecSys as it transitions into adulthood.
+            With the RecSys conference now turning 18 years old, the recommender systems (RS) discipline ventures into "adulthood". This workshop serves as a platform for introspection, examining the evolution of Recommender Systems from its origins in CHI to its current state heavily influenced by and focusing on machine learning. We aim to foster discussions on the past, present, and future of the RecSys discipline, inviting the community to reflect on key questions such as the maturation of RecSys, shifts in research focus, and the impact and success of RecSys in practice. Topics include the changing landscape of RecSys problems, the evolving role of RecSys in addressing choice overload to the current motivations driving RecSys adoption. The workshop encourages open dialogue and critical reflection, bringing forth introspective questions to collaboratively explore the past, present, and future of RecSys as it transitions into adulthood.
 
   - block: markdown
     id: cfa
@@ -42,7 +42,7 @@ sections:
         text: |-
             * Extended abstract submission: tba
             * Author notification: tba
-            * Workshop: exact date tba (in the Scope of RecSys 2024 in Bari, Italy)
+            * Workshop: exact date tba (in the scope of RecSys 2024 in Bari, Italy)
   - block: markdown
     id: program
     content:
@@ -57,5 +57,4 @@ sections:
         * [Alan Said (University of Gothenburg, Sweden)](https://alansaid.com)
         * [Christine Bauer (Paris Lodron University Salzburg, Austria)](https://christinebauer.eu/)
         * [Eva Zangerle (University of Innsbruck, Austria)](https://evazangerle.at) 
-
 ---
