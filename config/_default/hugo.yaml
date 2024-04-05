@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Introspectives Workshop@RecSys 2024 # Website name
-baseURL: 'localhost'#'https://introspectives.github.io/2024' # Website URL
+baseURL: 'https://introspectives.github.io/2024' # Website URL
 
 ############################
 ## LANGUAGE
