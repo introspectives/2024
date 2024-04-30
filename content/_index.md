@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: "INTROSPECTIVES:<br>Reflections on Recommender Systems<br>Past, Present, and Future"
+      title: "INTROSPECTIVES 2024:<br>Reflections on Recommender Systems:<br>Past, Present, and Future"
       #image:
       #  filename: hero-academic.png
       text: |-
