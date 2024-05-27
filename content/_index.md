@@ -34,7 +34,14 @@ sections:
     content:
         title: Call for Extended Abstracts
         text: |-
-            We will announce the call for extended abstracts shortly.
+              To allow participants to bring in topics and questions that they consider pressing issues in the scope of the workshop theme and topics, we solicit extended abstracts prior to the workshop. We therefore solicit extended abstracts (non-archival) of a maximum of two pages in ACM's double-column format, bringing up introspective questions and discussion topics. Topics of interest include, but are not limited to, the following:
+              * How have recommender systems matured in the last 20 years?
+              * How do current recommender systems problems differ from those from 20 years ago?
+              * What impact have recommender systems, and recommender systems research had since their inception?
+              * Why has recommender systems research and practice become successful?
+              * What is the real new reason for having a recommender? Is it still choice overload as a starting point?
+
+              Please submit your papers through the workshop’s [EasyChair page](https://easychair.org/my/conference?conf=recsys2024workshops).
   - block: markdown
     id: dates
     content:
