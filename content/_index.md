@@ -34,20 +34,41 @@ sections:
     content:
         title: Call for Extended Abstracts
         text: |-
-              To allow participants to bring in topics and questions that they consider pressing issues in the scope of the workshop theme and topics, we solicit extended abstracts prior to the workshop. We therefore solicit extended abstracts (non-archival) of a maximum of two pages in ACM's double-column format, bringing up introspective questions and discussion topics. Topics of interest include, but are not limited to, the following:
+              In 2024, the RecSys conference turns 18~years old, the age of majority in most parts of the world. As the conference, and the recommender systems (RS) discipline, ventures into adulthood, this workshop serves as a vehicle for reflecting on what we have done so far, and where we are heading to in the future.
+
+              As a research community, RecSys has its roots in human-computer interaction, machine learning, and e-commerce. Papers presented at the RecSys conference in recent years point towards an increased focus on machine learning-oriented research with a lesser focus on the topics from RecSys' youth.
+
+              INTROSPECTIVES, a spiritual follow-up to the PERSPECTIVES workshop series,  will be an in-person and interactive workshop in Bari. With the insights gained from PERSPECTIVES, and from being members of the RecSys community, we want to invite recommender systems researchers and practitioners to a forum for discussing the past, the present, and the future of the recommender systems discipline.
+
+              As INTROSPECTIVES is primarily a vehicle for discussion, we will not be publishing proceedings after the workshop. Thus, instead of papers, this is a call for questions and topics to be submitted as extended abstracts of maximum two pages in ACM’s double column format, and discussed at the workshop. A starting point, we present potential topics in the list below; however any questions and topics within the larger RecSys space are welcome. The abstracts will be made available on the workshop’s website. 
+
               * How have recommender systems matured in the last 20 years?
-              * How do current recommender systems problems differ from those from 20 years ago?
+              * How do current recommender systems problems differ from those from 20~years ago?
               * What impact have recommender systems, and recommender systems research had since their inception?
-              * Why has recommender systems research and practice become successful?
+              * Why has recommender systems research and practice become successful (has it)?
               * What is the real new reason for having a recommender? Is it still choice overload as a starting point?
 
-              Please submit your papers through the workshop’s [EasyChair page](https://easychair.org/my/conference?conf=recsys2024workshops).
+              # Submission Guidelines
+              We encourage submissions on topics including those above. No proceedings will be published. Extended abstracts will be made available on the workshop website. Authors are encouraged to post their abstracts on arXiv.org
+
+              Abstracts must be submitted through EasyChair and will go through selection and editorial review by the workshop organizers. Submissions should not be anonymized. 
+
+              ## Format
+              Format
+              Instructions for Word and LaTeX authors are given below:
+
+              * Microsoft Word: Write your paper using [ACM’s interim template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx). Follow the embedded instructions to apply the paragraph styles to your various text elements. The text is in double-column format and no additional formatting is required at this stage.
+              * LaTeX: Please use the latest version of the [Primary Article Template – LaTeX](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip) to create your submission.
+              
+              Submissions should be sent through [EasyChair page](https://easychair.org/my/conference?conf=recsys2024workshops) by August 30, AOE.
+              
+              Make sure to select the “INTROSPECTIVES: Reflections on Recommender Systems Past, Present, and Future” track when creating a submission.
   - block: markdown
     id: dates
     content:
         title: Important Dates
         text: |-
-            * Extended abstract submission: tba
+            * Extended abstract submission: August 30, AOE
             * Author notification: tba
             * Workshop: exact date tba (in the scope of RecSys 2024 in Bari, Italy)
   - block: markdown
