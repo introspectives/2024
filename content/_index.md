@@ -60,7 +60,7 @@ sections:
               * Microsoft Word: Write your paper using [ACM’s interim template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx). Follow the embedded instructions to apply the paragraph styles to your various text elements. The text is in double-column format and no additional formatting is required at this stage.
               * LaTeX: Please use the latest version of the [Primary Article Template – LaTeX](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip) to create your submission.
               
-              Submissions should be sent through [EasyChair page](https://easychair.org/my/conference?conf=recsys2024workshops) by August 30, AOE.
+              Submissions should be sent through [EasyChair page](https://easychair.org/my/conference?conf=recsys2024workshops) by August 30, AoE.
               
               Make sure to select the “INTROSPECTIVES: Reflections on Recommender Systems Past, Present, and Future” track when creating a submission.
   - block: markdown
@@ -68,9 +68,9 @@ sections:
     content:
         title: Important Dates
         text: |-
-            * Extended abstract submission: August 30, AOE
+            * Extended abstract submission: August 30, AoE
             * Author notification: tba
-            * Workshop: exact date tba (in the scope of RecSys 2024 in Bari, Italy)
+            * Workshop: October 18th, 2024 (in the scope of RecSys 2024 in Bari, Italy)
   - block: markdown
     id: program
     content:
