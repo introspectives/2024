@@ -10,18 +10,21 @@ main:
   - name: Objectives 
     url: '#objectives'
     weight: 20
-  - name: Call for Extended Abstracts
+  - name: Call
     url: '#cfa'
     weight: 30
-  - name: Important Dates
+  - name: Dates
     url: '#dates'
     weight: 40
   - name: Program
     url: '#program'
     weight: 50
+  - name: Keynote
+    url: 'keynote'
+    weight: 60
   - name: Organizers
     url: '#organizers'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
