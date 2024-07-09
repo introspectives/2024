@@ -1,6 +1,8 @@
 ---
 title: Keynote
 share: false
+image:
+  preview_only: true
 ---
 
 # People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems
