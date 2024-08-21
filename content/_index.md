@@ -34,7 +34,7 @@ sections:
     content:
         title: Call for Extended Abstracts
         text: |-
-              In 2024, the RecSys conference turns 18~years old, the age of majority in most parts of the world. As the conference, and the recommender systems (RS) discipline, ventures into adulthood, this workshop serves as a vehicle for reflecting on what we have done so far, and where we are heading to in the future.
+              In 2024, the RecSys conference turns 18 years old, the age of majority in most parts of the world. As the conference, and the recommender systems (RS) discipline, ventures into adulthood, this workshop serves as a vehicle for reflecting on what we have done so far, and where we are heading to in the future.
 
               As a research community, RecSys has its roots in human-computer interaction, machine learning, and e-commerce. Papers presented at the RecSys conference in recent years point towards an increased focus on machine learning-oriented research with a lesser focus on the topics from RecSys' youth.
 
@@ -68,9 +68,9 @@ sections:
     content:
         title: Important Dates
         text: |-
-            * Extended abstract submission: August 30, AoE
-            * Author notification: tba
-            * Workshop: October 18th, 2024 (in the scope of RecSys 2024 in Bari, Italy)
+            * Extended abstract submission: August 30, 2024, AoE
+            * Author notification: September 13, 2024 
+            * Workshop: October 18th, 2024 
   - block: markdown
     id: program
     content:
