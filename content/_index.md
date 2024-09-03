@@ -77,7 +77,7 @@ sections:
         title: Program
         text: |- 
             09:00 Opening
-            09:10 Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by Barry Smyth (further information)[keynote]
+            09:10 Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by Barry Smyth ([further information]({{<relref "keynote">}} "further information"))
   - block: markdown
     id: organizers
     content:
