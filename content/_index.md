@@ -70,13 +70,14 @@ sections:
         text: |-
             * Extended abstract submission: August 30, 2024, AoE
             * Author notification: September 13, 2024 
-            * Workshop: October 18th, 2024 
+            * Workshop: October 18th, 2024, 09:00-12:30
   - block: markdown
     id: program
     content:
         title: Program
         text: |- 
-            We will announce the program in due time.
+            09:00 Opening
+            09:10 Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by Barry Smyth (further information)[keynote]
   - block: markdown
     id: organizers
     content:
