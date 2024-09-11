@@ -43,7 +43,7 @@ sections:
               As INTROSPECTIVES is primarily a vehicle for discussion, we will not be publishing proceedings after the workshop. Thus, instead of papers, this is a call for questions and topics to be submitted as extended abstracts of maximum two pages in ACM’s double column format, and discussed at the workshop. A starting point, we present potential topics in the list below; however any questions and topics within the larger RecSys space are welcome. The abstracts will be made available on the workshop’s website. 
 
               * How have recommender systems matured in the last 20 years?
-              * How do current recommender systems problems differ from those from 20~years ago?
+              * How do current recommender systems problems differ from those from 20 years ago?
               * What impact have recommender systems, and recommender systems research had since their inception?
               * Why has recommender systems research and practice become successful (has it)?
               * What is the real new reason for having a recommender? Is it still choice overload as a starting point?
