@@ -74,10 +74,16 @@ sections:
   - block: markdown
     id: program
     content:
-        title: Program
+        title: (Tentative) Program
         text: |- 
-            09:00 Opening
-            09:10 Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by Barry Smyth ([further information]({{<relref "keynote">}} "further information"))
+            09:00 Welcome   
+            09:10 Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by Barry Smyth ([further information]({{<relref "keynote">}} "further information on keynote"))   
+            10:00 Pitch talk I   
+            10:15 Pitch talk II   
+            10:30 Coffee break   
+            11:00 Panel   
+            11:45 General discussion   
+            12:15 Overflow and closing
   - block: markdown
     id: organizers
     content:
