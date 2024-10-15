@@ -79,7 +79,7 @@ sections:
             09:00 Welcome   
             09:10 Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by Barry Smyth ([further information]({{<relref "keynote">}} "further information on keynote"))   
             10:00 Pitch talk "Two Decades of Recommender Systems: From Foundational Models to State-of-the-Art Advancements (2004-2024)" by Bahareh Rahmatikargar, Pooya Moradian Zadeh, and Ziad Kobti  
-            10:15 Pitch talk "Adoption of Recommender Systems: Observations, Trends and Leveling the Playing Field" by Jaidev Shah and Miguel González-Fierro ([Extended Abstract](https://github.com/introspectives/2024/blob/ea948f923b7ebcc328296a610d69d6f08f86537d/static/uploads/adoption_of_recommender_systems.pdf))  
+            10:15 Pitch talk "Adoption of Recommender Systems: Observations, Trends and Leveling the Playing Field" by Jaidev Shah and Miguel González-Fierro ({{% staticref "uploads/adoption_of_recommender_systems.pdf" "newtab" %}}pdf{{% /staticref %}})  
             10:30 Coffee break   
             11:00 Panel   
             11:45 General discussion   
